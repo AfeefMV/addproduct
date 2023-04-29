@@ -1,0 +1,22 @@
+[
+    {"id":1,
+    "title":"OnePlus Nord Watch with 1.78",
+    "price": 9610.00,
+    "description":"AMOLED Display, 60 Hz Refresh Rate, 105 Fitness Modes, 10 Days Battery, SPO2, Heart Rate, Stress Monitor, Women Health Tracker & Multiple Watch Face [Midnight Black]",
+    "image":"https://m.media-amazon.com/images/I/510+3Km7MtL._SX522_.jpg"
+    },
+    {"id":2,
+    "title":"Canon EOS 6D Mark II 26.2MP ",
+    "price": 164990,
+    "description":" Digital SLR Camera with EF24-105 mm f/4L is II USM Lens [Black]",
+    "image":"https://m.media-amazon.com/images/I/71OJD9qlQyL._SX679_.jpg"
+    },
+    {"id":1,
+    "title":"realme TechLife Buds T100 Bluetooth Truly Wireless in Ear Earbuds with mic",
+    "price": 5610.00,
+    "description":" AI ENC for Calls, Google Fast Pair, 28 Hours Total Playback with Fast Charging and Low Latency Gaming Mode (Black)",
+    "image":"https://m.media-amazon.com/images/I/61aasAbKvvL._SX679_.jpg"
+    }
+
+    ]
+    
